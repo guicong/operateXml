@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result>
+	<student>
+		<id>A1234</id>
+		<name>zhangsan</name>
+		<addr>重庆市开县</addr>
+	</student>
+	<student>
+		<id>B1234</id>
+		<name>lisi</name>
+		<addr>重庆市万州</addr>
+	</student>
+</result>

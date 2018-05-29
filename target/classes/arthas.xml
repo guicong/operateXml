@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<arthas>
+    <action base-package="com.stormragetech.arthas.netty" />
+    <action base-package="com.stormragetech.arthas.test" />
+</arthas>
