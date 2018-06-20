@@ -6,7 +6,7 @@ import lombok.Data;
 public class Student {
 	
 	/**
-	 * id
+	 * id所属
 	 */
 	private String id;
 	
